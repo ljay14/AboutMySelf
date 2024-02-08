@@ -68,7 +68,7 @@ table{
     margin: 0px;
 }
 
-@media screen and (min-width: 992px){
+@media screen and (min-width: 1440px){
 
     .about-left{
         position: relative;
