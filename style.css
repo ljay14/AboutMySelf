@@ -67,3 +67,14 @@ table h3{
 table{
     margin: 0px;
 }
+
+@media screen and (min-width: 992px){
+
+    .about-left{
+        position: relative;
+    }
+    .about-left-content{
+        position: absolute;
+        right: -50px;
+    }
+}
