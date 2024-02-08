@@ -6,8 +6,7 @@ body {
 
 .about-wrapper {
     display: flex;
-    height: 783px;
-
+    height: auto;
 }
 
 .about-left {
