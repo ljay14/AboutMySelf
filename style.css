@@ -6,7 +6,7 @@ body {
 
 .about-wrapper {
     display: flex;
-    height: 1083px;
+    height: 800px;
 }
 
 .about-left {
@@ -16,8 +16,6 @@ body {
     align-items: center;
     width: 50%;
 }
-
-
 
 .image-container {
     background-color: aliceblue;
