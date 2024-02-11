@@ -81,3 +81,17 @@ table h2 {
     padding: 0.5rem;
     opacity: 0.7;
 }
+
+#ss, a{
+    text-align: center;
+    color: black;
+}
+
+.custom-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
