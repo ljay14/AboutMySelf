@@ -2,7 +2,7 @@
 
 ![image](https://github.com/ljay14/AboutMySelf/assets/156511215/871ecdb4-0e6a-4a3f-88ad-f1be677f83db)
 
-![image](https://github.com/ljay14/AboutMySelf/assets/156511215/584c3aed-099d-4a2a-a5c0-babfa29719e6)
+![image](https://github.com/ljay14/AboutMySelf/assets/156511215/562dd5a4-37bd-40d8-b324-95aebe5c6321)
 
 ![image](https://github.com/ljay14/AboutMySelf/assets/156511215/4f2255ec-88f2-4335-a123-32b8ff6dd4cf)
 
